@@ -1,3 +1,13 @@
+# Python Plotter###############################################################
+# Author : Kushagra Nigam 
+# Institute : IPR, Gandhinagar
+# Code Creation Date: 2026.06.15
+# Code Version : 1.0
+###############################################################################
+# Code Updated on : 
+# Update Notes :  
+###############################################################################
+
 import re
 import numpy as np
 import matplotlib.pyplot as plt
